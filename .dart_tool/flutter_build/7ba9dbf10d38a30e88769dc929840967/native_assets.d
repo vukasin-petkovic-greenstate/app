@@ -1,0 +1,1 @@
+ /Users/vukasinpetkovicgreenstate.ch/Desktop/projects/app/.dart_tool/flutter_build/7ba9dbf10d38a30e88769dc929840967/native_assets.yaml: 
